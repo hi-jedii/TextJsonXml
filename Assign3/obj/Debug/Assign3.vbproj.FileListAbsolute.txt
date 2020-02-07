@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Assign3\bin\Debug\Assign3.exe.config
+C:\Users\Admin\source\repos\Assign3\bin\Debug\Assign3.exe
+C:\Users\Admin\source\repos\Assign3\bin\Debug\Assign3.pdb
+C:\Users\Admin\source\repos\Assign3\bin\Debug\Assign3.xml
+C:\Users\Admin\source\repos\Assign3\obj\Debug\Assign3.Form1.resources
+C:\Users\Admin\source\repos\Assign3\obj\Debug\Assign3.Resources.resources
+C:\Users\Admin\source\repos\Assign3\obj\Debug\Assign3.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Assign3\obj\Debug\Assign3.exe
+C:\Users\Admin\source\repos\Assign3\obj\Debug\Assign3.xml
+C:\Users\Admin\source\repos\Assign3\obj\Debug\Assign3.pdb
+C:\Users\Admin\source\repos\Assign3\obj\Debug\Assign3.vbprojAssemblyReference.cache
